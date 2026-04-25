@@ -1,5 +1,9 @@
 # 🧠 Stroke Risk Prediction - DataXplore 2.0 Stage 01
 
+<p align="center">
+  <img src="assets/banner.png" alt="Stroke Risk Prediction Banner" width="100%">
+</p>
+
 ### *End-to-End Healthcare ML Pipeline with Explainability*
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
