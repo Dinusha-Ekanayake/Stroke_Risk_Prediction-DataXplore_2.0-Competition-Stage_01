@@ -1,4 +1,4 @@
-# 🧠 Stroke Risk Prediction — DataXplore 2.0 Stage 01
+# 🧠 Stroke Risk Prediction - DataXplore 2.0 Stage 01
 
 ### *End-to-End Healthcare ML Pipeline with Explainability*
 
