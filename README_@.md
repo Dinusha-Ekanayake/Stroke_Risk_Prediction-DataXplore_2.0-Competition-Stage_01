@@ -1,6 +1,11 @@
 # 🧠 Stroke Risk Prediction using Machine Learning  
 ### *End-to-End Healthcare ML Pipeline with Explainability*
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
 ---
 
 ## 🚀 Overview
@@ -140,3 +145,92 @@ Instead of SMOTE, the model uses:
 ```python
 class_weight = 'balanced'
 scale_pos_weight = 19.54
+```
+
+### Why?
+
+- Avoids **data leakage**
+- Maintains **real-world reliability**
+- More appropriate for clinical applications  
+
+---
+
+## 📁 Repository Structure
+
+```
+├── stroke-risk-ml-pipeline.ipynb   # Main analysis notebook
+├── report.pdf                      # Detailed report
+├── dataset.csv                     # Dataset
+├── requirements.txt               # Dependencies
+└── README.md
+```
+
+---
+
+## ⚙️ Installation & Usage
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
+```
+
+---
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 3. Run the project
+
+- Open the notebook in **Jupyter Notebook** or **Google Colab**
+- Run all cells sequentially
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|--------|------|
+| Language | Python |
+| Data Processing | pandas, numpy |
+| Visualization | matplotlib, seaborn |
+| Machine Learning | scikit-learn, XGBoost |
+| Statistics | scipy |
+| Explainability | SHAP |
+
+---
+
+## 📊 Project Highlights
+
+✔ End-to-end ML pipeline  
+✔ Strong statistical foundation  
+✔ Explainable AI integration  
+✔ Real-world ML considerations (data leakage, imbalance)  
+✔ Healthcare-focused insights  
+
+---
+
+## 👨‍💻 Authors
+
+- Dinusha Ekanayake  
+- Kavinda Mihiran  
+- Amandi Arangala  
+- Tharusha Udana  
+
+---
+
+## 📄 License
+
+This project is for educational and research purposes.
+
+---
+
+## ⭐ Acknowledgement
+
+If you found this project useful, feel free to ⭐ the repository!
